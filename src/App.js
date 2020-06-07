@@ -4,7 +4,7 @@ import Course from './newFile.js';
 function App() {
   return (
     <div className="App">
-      <Course courseName='Fasttrack Bootcamp-2020' assignmentNum='3' />
+      <Course courseName='Fasttrack Bootcamp-2020' class='3' assignmentNum='3' />
     </div>
   );
 }
